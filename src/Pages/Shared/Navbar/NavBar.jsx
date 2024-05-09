@@ -2,8 +2,13 @@ import { Link } from "react-router-dom";
 import logo from '../../../assets/logo.svg'
 const NavBar = () => {
     const navItems = <>
-    <li><a>Home</a></li>
-    <li><a>About</a></li>
+    <li><Link to='/'>Home</Link></li>
+    <li><Link>About</Link></li>
+    <li><Link>Services</Link></li>
+    <li><Link to='/blog' >Blog</Link></li>
+    <li><Link>Contact</Link></li>
+
+
     </>
   return (
     <div className="navbar bg-base-100">
@@ -24,6 +29,9 @@ const NavBar = () => {
     <ul className="menu menu-horizontal px-1">
     {navItems}
     </ul>
+  </div>
+  <div className="navbar-end">
+    <a className="btn">Appointment</a>
   </div>
 </div>
   );
