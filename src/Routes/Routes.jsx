@@ -3,6 +3,8 @@ import Main from "../Layout/Main";
 import Home from "../Pages/Home/Home/Home";
 import Blog from "../Pages/Blog/Blog";
 import About from "../Pages/About/About";
+import Login from "../Pages/Login/Login";
+import SignUp from "../Pages/SignUp/SignUp";
 
 const router = createBrowserRouter([
     {
@@ -16,12 +18,19 @@ const router = createBrowserRouter([
         {
             path:'/blog',
             element:<Blog></Blog>,
-            loader: ()=> fetch('http://localhost:5000/blog')
+            loader: ()=> fetch('http://localhost:5000/blog'),
         },
         {
-            path:'/About',
+            path:'/about',
             element:<About></About>,
-            
+        },
+        {
+          path:'/login',
+          element:<Login></Login>
+        },
+        {
+          path:'/signup',
+          element:<SignUp></SignUp>
         }
       ]
     },

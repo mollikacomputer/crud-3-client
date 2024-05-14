@@ -1,0 +1,158 @@
+[
+    {
+      "_id": "faafp41213fvasdf141",
+      "service_id": 1,
+      "title": "Car Wash Deluxe",
+      "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/1.jpg",
+      "price": 25,
+      "description": "Get your car sparkling clean with our deluxe car wash package.",
+      "facility": [
+        {
+          "name": "Instant car services",
+          "details": "We offer quick and efficient car washing services."
+        },
+        {
+          "name": "24/7 Quality Services",
+          "details": "Our services are available round the clock to meet your needs."
+        },
+        {
+          "name": "Easy Customer Service",
+          "details": "Our friendly staff ensures a hassle-free experience."
+        },
+        {
+          "name": "Quality Cost Service",
+          "details": "We provide high-quality service at affordable prices."
+        }
+      ]
+    },
+    {
+      "_id": "faafp41213fvasdf142",
+      "service_id": 2,
+      "title": "Oil Change Express",
+      "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/2.jpg",
+      "price": 35,
+      "description": "Keep your engine running smoothly with our quick oil change service.",
+      "facility": [
+        {
+          "name": "Fast oil change",
+          "details": "Our experienced technicians perform oil changes quickly."
+        },
+        {
+          "name": "Convenient scheduling",
+          "details": "Schedule your oil change at a time that suits you best."
+        },
+        {
+          "name": "Quality oil products",
+          "details": "We use high-quality oil products for optimal engine performance."
+        },
+        {
+          "name": "Expert technicians",
+          "details": "Trust our skilled technicians to handle your oil change with care."
+        }
+      ]
+    },
+    {
+      "_id": "faafp41213fvasdf143",
+      "service_id": 3,
+      "title": "Tire Rotation Service",
+      "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/3.jpg",
+      "price": 20,
+      "description": "Extend the life of your tires with our professional tire rotation service.",
+      "facility": [
+        {
+          "name": "Expert tire rotation",
+          "details": "Our technicians perform tire rotations with precision."
+        },
+        {
+          "name": "Regular tire maintenance",
+          "details": "Regular tire rotation helps ensure even wear and extends tire life."
+        },
+        {
+          "name": "Quality tire products",
+          "details": "We use top-quality products to maintain your tires."
+        },
+        {
+          "name": "Safety first",
+          "details": "We prioritize safety during tire rotation to protect your vehicle."
+        }
+      ]
+    },
+    {
+      "_id": "faafp41213fvasdf144",
+      "service_id": 4,
+      "title": "Detailing Package",
+      "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/4.jpg",
+      "price": 50,
+      "description": "Restore your vehicle's shine with our comprehensive detailing package.",
+      "facility": [
+        {
+          "name": "Full interior and exterior detailing",
+          "details": "We meticulously clean every inch of your vehicle inside and out."
+        },
+        {
+          "name": "Premium detailing products",
+          "details": "We use high-quality products to achieve exceptional results."
+        },
+        {
+          "name": "Attention to detail",
+          "details": "Our detailing experts pay close attention to every detail of your vehicle."
+        },
+        {
+          "name": "Satisfaction guaranteed",
+          "details": "We ensure your complete satisfaction with our detailing service."
+        }
+      ]
+    },
+    {
+      "_id": "faafp41213fvasdf145",
+      "service_id": 5,
+      "title": "Brake Inspection Service",
+      "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/5.jpg",
+      "price": 15,
+      "description": "Ensure your safety on the road with our professional brake inspection service.",
+      "facility": [
+        {
+          "name": "Thorough brake inspection",
+          "details": "Our technicians inspect your brakes thoroughly for safety."
+        },
+        {
+          "name": "Expert brake technicians",
+          "details": "Trust our experienced technicians to diagnose brake issues accurately."
+        },
+        {
+          "name": "Peace of mind",
+          "details": "Feel confident on the road knowing your brakes are in top condition."
+        },
+        {
+          "name": "Affordable inspection",
+          "details": "Get peace of mind without breaking the bank with our affordable inspection."
+        }
+      ]
+    },
+    {
+      "_id": "faafp41213fvasdf146",
+      "service_id": 6,
+      "title": "Wheel Alignment Service",
+      "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/6.jpg",
+      "price": 30,
+      "description": "Improve your vehicle's handling and tire wear with our wheel alignment service.",
+      "facility": [
+        {
+          "name": "Precision wheel alignment",
+          "details": "We use advanced equipment to ensure precise wheel alignment."
+        },
+        {
+          "name": "Expert technicians",
+          "details": "Our skilled technicians perform wheel alignments with expertise."
+        },
+        {
+          "name": "Enhanced vehicle performance",
+          "details": "Proper wheel alignment improves handling and fuel efficiency."
+        },
+        {
+          "name": "Longer tire life",
+          "details": "Extend the life of your tires by ensuring proper wheel alignment."
+        }
+      ]
+    }
+]

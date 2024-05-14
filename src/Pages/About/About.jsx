@@ -1,5 +1,6 @@
 import person from "../../assets/images/about_us/person.jpg";
 import part from "../../assets/images/about_us/parts.jpg";
+
 const About = () => {
   return (
     <div className="hero min-h-screen bg-base-200 ">

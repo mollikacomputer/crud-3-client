@@ -4,15 +4,16 @@ import "./index.css";
 
 import { RouterProvider } from "react-router-dom";
 import router from "./Routes/Routes.jsx";
-import { MoneyContext } from "./Context/MoneyContext.jsx";
+import AuthProvider from "./Context/AuthProvider.jsx";
+
 
 ReactDOM.createRoot(document.getElementById("root")).render(
-  <MoneyContext.Provider>
-    <div className="max-w-7xl mx-auto">
-      <React.StrictMode>
+  <div className="max-w-7xl mx-auto">
+    <React.StrictMode>
+      <AuthProvider>
         <RouterProvider router={router} />
-      </React.StrictMode>
-      ,
-    </div>
-  </MoneyContext.Provider>
+      </AuthProvider>
+    </React.StrictMode>
+    ,
+  </div>
 );
