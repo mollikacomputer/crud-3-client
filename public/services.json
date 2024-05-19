@@ -1,6 +1,5 @@
 [
     {
-      "_id": "faafp41213fvasdf141",
       "service_id": 1,
       "title": "Car Wash Deluxe",
       "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/1.jpg",
@@ -26,7 +25,6 @@
       ]
     },
     {
-      "_id": "faafp41213fvasdf142",
       "service_id": 2,
       "title": "Oil Change Express",
       "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/2.jpg",
@@ -52,7 +50,6 @@
       ]
     },
     {
-      "_id": "faafp41213fvasdf143",
       "service_id": 3,
       "title": "Tire Rotation Service",
       "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/3.jpg",
@@ -78,7 +75,6 @@
       ]
     },
     {
-      "_id": "faafp41213fvasdf144",
       "service_id": 4,
       "title": "Detailing Package",
       "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/4.jpg",
@@ -104,7 +100,6 @@
       ]
     },
     {
-      "_id": "faafp41213fvasdf145",
       "service_id": 5,
       "title": "Brake Inspection Service",
       "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/5.jpg",
@@ -130,7 +125,6 @@
       ]
     },
     {
-      "_id": "faafp41213fvasdf146",
       "service_id": 6,
       "title": "Wheel Alignment Service",
       "img": "https://ranjit.carpetcleaningsdpro.com/car_doctor/6.jpg",

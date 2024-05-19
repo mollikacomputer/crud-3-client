@@ -85,7 +85,7 @@ const SignUp = () => {
                 <input
                   className="btn btn-primary"
                   type="submit"
-                  value="Login"
+                  value="Sign Up"
                 />
                 <p className="mt-5 text-center">
                   Hava An Account?
