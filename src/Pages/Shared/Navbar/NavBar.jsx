@@ -3,6 +3,7 @@ import logo from '../../../assets/logo.svg'
 import { useContext } from "react";
 import { AuthContext } from "../../../Context/AuthProvider";
 const NavBar = () => {
+
   const {user, logOut} = useContext(AuthContext);
   
   const handleLogOut = () =>{
@@ -22,8 +23,6 @@ const NavBar = () => {
     </>
     : <li><Link to='/login' >Login</Link></li>}
     <li><Link to='/signup' >Sign Up</Link></li>
-
-
     </>
   return (
     <div className="navbar bg-base-100">
